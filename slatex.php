@@ -15,7 +15,7 @@ if ($status === 200) {
 
   {
     "response_type": "in_channel",
-    "text": "<?= $url ?>",
+    "text": "<<?= $url ?>| >",
     "unfurl_links": true
   }
 
