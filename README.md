@@ -1,5 +1,5 @@
 # slatex
-PHP code for rendering LaTeX using a slash command.
+PHP code for rendering LaTeX in Slack using a slash command.
 
 ## Setup
 ### Server
